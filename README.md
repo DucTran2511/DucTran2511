@@ -29,7 +29,7 @@ I'm a **Backend Engineer** from **Viet Nam**. I love building efficient and scal
 ### 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,javascripts,docker,git,postgres,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,docker,git,postgres,aws" />
   </a>
 </p>
 
