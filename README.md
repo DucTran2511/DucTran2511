@@ -37,6 +37,7 @@ I'm a **Backend Engineer** from **Viet Nam**. I love building efficient and scal
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight
+)" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran2511&layout=compact&theme=tokyonight" alt="languages" />
 </p>
