@@ -22,5 +22,5 @@ I'm a **Backend Engineer** and **Computer Science Student** from **Hanoi, Vietna
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight" alt="DucTran2511's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran2511&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran2511&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook,shell" alt="Top Languages" />
 </p>
