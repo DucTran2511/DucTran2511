@@ -1,33 +1,17 @@
-## Hi there 👋
-
-<!--
-**DucTran2511/DucTran2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Tran Hong Duc! 👋
 
-I'm a **Backend Engineer** from **Viet Nam**. I love building efficient and scalable software.
+I'm a **Backend Engineer** and **Computer Science Student** from **Hanoi, Vietnam**. I am passionate about building efficient, scalable distributed systems and cloud infrastructure.
 
-- 🔭 I’m currently working on **argus** and **JDO** 
-- 🌱 I’m currently learning **SpringBoot**
-- 👯 I’m looking to collaborate on **[Open Source Projects]**
-- 💬 Ask me about **SpringBoot**
+- 🔭 I’m currently working on **Argus** (a distributed job scheduler) and **JDO**
+- 🌱 I’m currently learning **Cloud Architecture (AWS)** and **Spring Boot**
+- 👯 I’m looking to collaborate on **Open Source Java Projects**
+- 💬 Ask me about **Java, Distributed Systems, and Backend Development**
 - 📫 How to reach me: **dtran25112004@gmail.com**
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left"> 
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,docker,git,postgres,aws" />
   </a>
@@ -37,7 +21,6 @@ I'm a **Backend Engineer** from **Viet Nam**. I love building efficient and scal
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight
-)" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran2511&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DucTran2511&show_icons=true&theme=tokyonight" alt="DucTran2511's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucTran2511&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
