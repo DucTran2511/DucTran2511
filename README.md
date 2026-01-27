@@ -1,6 +1,6 @@
 # Hi there, I'm Tran Hong Duc! 👋
 
-### 🚀 Backend Software Engineer | Distributed Systems Enthusiast
+### 🚀 Backend Software Engineer
 **Based in Hanoi, Vietnam 🇻🇳**
 
 I am a software engineer passionate about designing **efficient, scalable backend systems** and **cloud infrastructure**. I enjoy solving complex concurrency problems and optimizing high-performance applications.
@@ -12,7 +12,7 @@ I am a software engineer passionate about designing **efficient, scalable backen
 - 🔭 I’m currently working on **Argus**, a distributed job scheduler and orchestration system.
 - 🌱 I’m currently preparing for the **AWS Solutions Architect Associate (SAA-C03)** certification.
 - 👯 I’m looking to collaborate on **Open Source Java & Spring Boot projects**.
-- 💬 Ask me about **Java Concurrency, System Design, and Microservices**.
+- 💬 Enthusiated with **Mordern Java**.
 - 📫 Reach me at: **[dtran25112004@gmail.com](mailto:dtran25112004@gmail.com)**
 
 ---
@@ -32,9 +32,8 @@ I am a software engineer passionate about designing **efficient, scalable backen
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Argus** | A **distributed job scheduler** capable of orchestrating tasks across multiple nodes. Focuses on fault tolerance, leader election, and high availability. | Java, Spring Boot, ZooKeeper, Redis |
-| **Focus Lofi** | A productivity web application combining Pomodoro techniques with Lofi music streaming. | Java, Spring Boot, React |
-| **JDO** | (Add a short description of what JDO does here) | Java, Spring |
+| **JDO** | A **distributed job scheduler** capable of orchestrating tasks across multiple nodes. Focuses on fault tolerance, leader election, and high availability. | Java, Spring Boot, Docker, Redis Pub/Sub & STream|
+| **Argus** | An **on-chain crypto analytics engine** ("Whale Hunter") that monitors blockchain transactions in real-time to detect high-value movements and identify trading signals. | Java, Spring Boot, Web3j, Blockchain Nodes |
 
 ---
 
