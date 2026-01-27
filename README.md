@@ -55,3 +55,7 @@ I am a software engineer passionate about designing **efficient, scalable backen
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DucTran2511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DucTran2511&label=Profile%20Views&color=0e75b6&style=flat" alt="DucTran2511" />
+</p>
