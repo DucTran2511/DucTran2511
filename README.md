@@ -10,9 +10,8 @@ I am a software engineer passionate about designing **efficient, scalable backen
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Argus**, a distributed job scheduler and orchestration system.
-- 🌱 I’m currently preparing for the **AWS Solutions Architect Associate (SAA-C03)** certification.
-- 👯 I’m looking to collaborate on **Open Source Java & Spring Boot projects**.
-- 💬 Enthusiated with **Mordern Java**.
+- 👯 I’m looking to collaborate on **Open Source Java & Golang projects**.
+- 💬 Enthusiated with **Mordern Java** and **Golang**.
 - 📫 Reach me at: **[dtran25112004@gmail.com](mailto:dtran25112004@gmail.com)**
 
 ---
@@ -34,6 +33,7 @@ I am a software engineer passionate about designing **efficient, scalable backen
 | :--- | :--- | :--- |
 | **JDO** | A **distributed job scheduler** capable of orchestrating tasks across multiple nodes. Focuses on fault tolerance, leader election, and high availability. | Java, Spring Boot, Docker, Redis Pub/Sub & STream|
 | **Argus** | An **on-chain crypto analytics engine** ("Whale Hunter") that monitors blockchain transactions in real-time to detect high-value movements and identify trading signals. | Java, Spring Boot, Web3j, Blockchain Nodes |
+| **IELTS CLI & Orchestration** | Customize agent SKILLs for 4 ielts skills and provide CLI for easy tracking and interacting with learning plan | Python3, Bash, SQLite, Agent orchestration |
 
 ---
 
